@@ -88,7 +88,7 @@ Pour installer et tester l'application localement, suivez ces étapes :
 
 ## Contribuer
 
-    Si vous souhaitez contribuer au projet, veuillez créer une branche, faire vos modifications et soumettre une pull request. Toute suggestion ou amélioration est la bienvenue !
+Si vous souhaitez contribuer au projet, veuillez créer une branche, faire vos modifications et soumettre une pull request. Toute suggestion ou amélioration est la bienvenue !
 
 ---
 
