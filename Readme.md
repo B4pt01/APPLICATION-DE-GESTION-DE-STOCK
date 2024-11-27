@@ -13,10 +13,10 @@ Le développement est en cours. Voici l'état actuel des fonctionnalités et tâ
 ### Fonctionnalités Principales
 
 - **Gestion des Stocks** :  
-  ✔️ **Terminé pour les produits** : Ajout, modification et suppression de produits.  
+  ✔️ **En cours** : Ajout, modification et suppression de produits.  
   🔄 **En cours** : Gestion des stocks (ajouter/supprimer des quantités, réapprovisionnement automatique).
 - **Gestion des Fournisseurs** :  
-  ✔️ **Terminé** : Création et gestion des fournisseurs, lien avec les produits.
+  ✔️ **En cours** : Création et gestion des fournisseurs, lien avec les produits.
 
 - **Gestion des Commandes** :  
   🔄 **En cours** : Création de commandes clients, gestion automatique des commandes fournisseurs en cas de stock insuffisant.  
@@ -26,12 +26,12 @@ Le développement est en cours. Voici l'état actuel des fonctionnalités et tâ
   🚧 **En attente** : Fonctionnalité d'inventaire en masse.
 
 - **API Back-End** :  
-  ✔️ **Terminé** : Mise en place de l'API avec les routes pour la gestion des produits, commandes et fournisseurs.  
+  ✔️ **En cours** : Mise en place de l'API avec les routes pour la gestion des produits, commandes et fournisseurs.  
   🔄 **En cours** : Sécurisation avec JWT et gestion des autorisations.  
   🚧 **En attente** : Tests d'intégration et amélioration des performances.
 
 - **Interface Front-End (Site Web)** :  
-  ✔️ **Terminé** : Structure de base du site e-commerce (catalogue de produits).  
+  ✔️ **En cours** : Structure de base du site e-commerce (catalogue de produits).  
   🔄 **En cours** : Affichage des détails de chaque produit et panier d'achats.  
   🚧 **En attente** : Intégration du processus de commande (paiement, validation de commande).
 
